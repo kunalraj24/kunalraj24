@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kunalraj24
 - 👀 I’m interested in ...coding and math's.
-- 🌱 I’m currently learning ...everything about cs.
+- 🌱 I’m currently learning Data science with python and R language .
 - 💞️ I’m not looking to collaborate .
 - 📫 How to reach me for only studies...kunalraj150802@gmail.com
 
